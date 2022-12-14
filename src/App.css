@@ -134,6 +134,7 @@ body {
         width: min(58.75rem, 100%);
         padding: 1rem;
         border-radius: var(--br-lg);
+        box-shadow: 0 2rem 2rem -2rem hsla(0 0% 0% / .2);
         background: var(--clr-white);
         margin: auto;
     }
