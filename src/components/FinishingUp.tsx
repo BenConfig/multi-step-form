@@ -52,7 +52,6 @@ const FinishingUp = ({ formData, currentStep, setCurrentStep }: Props) => {
                     <a
                         className="step4-sub-totals__change-plan-link"
                         href="#select-your-plan"
-                        type="button"
                         onClick={goToStep2}
                     >
                         Change
